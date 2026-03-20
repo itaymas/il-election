@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/itayma/ck7f6i15411ej1ilg83com271',
-    accessToken: 'pk.eyJ1IjoiaXRheW1hIiwiYSI6ImNrMzRkcWQ2MjBvamszbm1xYTN6ZmsybjMifQ.7oWm6ulAPjzpY0ubi_fU-A',
+    accessToken: 'pk.eyJ1IjoiaXRheW1hIiwiYSI6ImNtbXlyMzluajAwamwycnMyeXY3cTFnb3MifQ.lDUQvadYXuyzGH6zsPHjLw',
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
